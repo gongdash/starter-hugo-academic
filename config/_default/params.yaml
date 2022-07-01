@@ -6,7 +6,6 @@
 # Appearance
 
 appearance:
-  theme: academic
   theme_day: minimal
   theme_night: minimal
   font: minimal
